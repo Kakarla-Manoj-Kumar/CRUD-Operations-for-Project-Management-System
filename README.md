@@ -23,8 +23,8 @@ The Project Management System is a RESTful API built using Java 17 and Spring Bo
 - `models` - JPA entity classes
 
 ### Prerequisites
-- JDK 17 or higher
-- Maven 3.6.0 or higher
+- JDK 17 
+- Maven 
 - Git
 
 ### Steps to Run the Application
